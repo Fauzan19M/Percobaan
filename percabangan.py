@@ -8,3 +8,4 @@ if nilai %2==0:
  else:
   print("Bilangan Genap")
   
+print("Program Berakhir")
