@@ -5,3 +5,5 @@ if nilai %2==0:
   print("Bilangan Ganjil")
  else:
   print("Bilangan Genap")
+  
+print("End Program")
